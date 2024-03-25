@@ -1,0 +1,42 @@
+#Project Title: Data Analysis using Pandas Library
+
+#Project Does:
+This project provides an analysis of two datasets: Hitters Dataset and Cars Dataset. It performs various tasks such as finding missing values, identifying players with specific criteria, and analyzing car features.
+
+The project demonstrates practical data analysis techniques using Python and pandas for different use cases. It helps users understand how to manipulate and analyze datasets to derive meaningful insights.
+
+There are some questions for practice.
+Hitters Dataset
+------------------
+Find out no of missing values in each column
+
+Find of people who have batted for more than 400 matches
+
+Find out the name of the player who has hit max home runs
+
+Find out league wise total number of players
+
+Find out division wise total amount of salary invested
+
+Find out five most senior players. 
+
+
+
+-------------
+Cars Dataset
+-------------
+
+
+1. Find out car having highest Mileage in city
+2. Find out Models of cars which are having Price between 17 and 25
+3. Find out top 7 most fuel economic cars for highway
+4. Find out Models of cars having no AirBags and which are of compact type whose price is below 20.
+5. Find out top 7 most fuel economic cars for city, show results in sorted manner based on Horsepower.
+
+1. Find out Cars having mileage of more than 15 miles in city
+
+2. Find out Cars with US based origin¶
+
+3. Find out Cars with no airbags and which are compact in type, from the output retrieve only Model, Mileage in city, Type, Airbags
+
+4. Find out cars with Mileage in city more than 15 which are compact in type.
